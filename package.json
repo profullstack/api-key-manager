@@ -1,6 +1,6 @@
 {
   "name": "@profullstack/api-key-manager",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Simple API key management system with generation, validation, and rate limiting",
   "type": "module",
   "main": "dist/index.js",
